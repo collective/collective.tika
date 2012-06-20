@@ -1,0 +1,9 @@
+Changelog
+=========
+
+0.1-dev (unreleased)
+--------------------
+
+- added word, pdf, excel and powerpoint transforms [reinhardt]
+- Package created using templer
+  [reinhardt]
