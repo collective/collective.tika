@@ -6,11 +6,11 @@ version = '0.1'
 long_description = (
     open('README.txt').read()
     + '\n' +
-    'Contributors\n'
-    '============\n'
-    + '\n' +
-    open('CONTRIBUTORS.txt').read()
-    + '\n' +
+    #'Contributors\n'
+    #'============\n'
+    #+ '\n' +
+    #open('CONTRIBUTORS.txt').read()
+    #+ '\n' +
     open('CHANGES.txt').read()
     + '\n')
 
@@ -26,7 +26,7 @@ setup(name='collective.tika',
       keywords='',
       author='',
       author_email='',
-      url='http://svn.plone.org/svn/collective/',
+      url='https://github.com/collective/collective.tika',
       license='gpl',
       packages=find_packages('src'),
       package_dir = {'': 'src'},
