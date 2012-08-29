@@ -6,7 +6,7 @@ from Products.CMFPlone.utils import safe_unicode
 from htmllaundry import utils as laundryutils
 from htmllaundry import cleaners
 
-log = getLogger('staralliance.policy.transforms')
+log = getLogger('collective.tika.transforms')
 
 
 allow_tags = ['pre', 'code', 'h2', 'h3', 'h1', 'h6', 'h4', 'h5', 'header', 'table', 'li',
