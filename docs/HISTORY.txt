@@ -1,10 +1,10 @@
 Changelog
 =========
 
-0.2 (unreleased)
-----------------
+0.1.1 (2012-09-17)
+------------------
 
-- Nothing changed yet.
+- fixed typo in logger [reinhardt]
 
 
 0.1 (2012-06-21)
